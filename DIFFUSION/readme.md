@@ -13,7 +13,7 @@ This notebook is designed to curve fit diffusion from image data, then determine
 3. Convert to 8-bit and invert.
 4. Rotate stack so that the lanes are exactly vertical to the screen y axis. Note which resevoir is at the top and bottom for next steps.
 5. Crop to the top and the bottom of the lanes. The resevoirs should be completely cropped out. 
-6. Open (file->open) the imageJ macro [y-axis_lane_profile](y-axis_lane_profile.ijm).
+6. Open (file->open) the imageJ macro [y-axis_lane_profile](https://github.com/AlexisStrain/chlamy2024/blob/master/CHEMOTAXIS/y-axis_lane_profile.ijm).
 7. Follow the macro prompts to get the intensity along the y-axis for each lane.
 8. The average of each lane will be saved as a "lane_number.txt" file in the same directory as the current stack, where lane 1 is the leftmost lane. 
 9. Rename each 'lane_number.txt' file as "DD_MM_chemical_replicate number.txt" to match each lane.
