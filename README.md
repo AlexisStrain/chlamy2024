@@ -16,14 +16,14 @@
 #### This repository contains the scripts need to generate the figure for the manuscript "Membrane-bound Guanylyl Cyclase COP5/HKR1 changes ciliary beat pattern and biases cell steering during chemotaxis in _Chlamydomonas reinhardtii_". It is split into four sections:
 
 Note: Each section is accompanied by sample datasets of a positive control (typically the *wt* CC-125) and a negative control (typically the paralyzed _pf18_)
-1. [CHEMOTAXIS](https://github.com/AlexisStrain/chlamy2024/tree/master/CHEMOTAXIS)
+1. [CHEMOTAXIS](/CHEMOTAXIS)
    - Code and procedures required the process data from the 3D printed Chemotaxis Lane Assay (CLA) plate
    - STL file reqired to print the CLA-plate
-2. [PHOTOTAXIS](https://github.com/AlexisStrain/chlamy2024/tree/main/PHOTOTAXIS)
+2. [PHOTOTAXIS](/PHOTOTAXIS)
    - Code for processing phototaxis experiements
-3. [DIFFUSION](https://github.com/AlexisStrain/chlamy2024/tree/main/DIFFUSION)
+3. [DIFFUSION](/DIFFUSION)
    - Code for finding diffusion coefficients of BPB based on curve fitting.
-3. [swimTRACKING](https://github.com/AlexisStrain/chlamy2024/tree/main/swimTRACKING)
+3. [swimTRACKING](/swimTRACKING)
    - Code for processing all microscopy video of cell tracking including photoshock, homogenous non-gradient conditions, and gradient conditions.
 
 ## Requirements to Run swimTRACKING
