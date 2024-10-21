@@ -10,7 +10,7 @@
 [BioRxiv](https://www.biorxiv.org/content/10.1101/2024.10.14.618206v1.article-metrics), 2024
 <br>
 ---
-![angle speed and video](https://github.com/AlexisStrain/chlamy2024/assets/97978270/c130e31e-0b38-48c8-a5e1-f9f9ed258236)
+![angle speed and video](Figures/angle speed and video.gif)
    *created by swimTRACKING
 ## About
 #### This repository contains the scripts need to generate the figure for the manuscript "Membrane-bound Guanylyl Cyclase COP5/HKR1 changes ciliary beat pattern and biases cell steering during chemotaxis in _Chlamydomonas reinhardtii_". It is split into four sections:
