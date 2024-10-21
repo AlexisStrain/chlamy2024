@@ -18,7 +18,7 @@ DISCLAIMER: This is a shortened experimental protocol for quick reference. Pleas
 9. Rename each 'lane_number.txt' file as "DD_MM_sample_replicate number.txt" for each lane. 
    
 #### Data processing (Jupyter Notebook):
-1. Move all of the "DD_MM_sample_replicate number(optional).txt" files from imageJ into the same directory as the Jupyter notebook [PUBLICATION_CHEMOTAXIS INDICES](https://github.com/AlaSummer/Chlamy-2024/blob/main/CHEMOTAXIS/PUBLICATION_CHEMOTAXIS%20INDICES.ipynb) for processed sample datasets.
+1. Move all of the "DD_MM_sample_replicate number(optional).txt" files from imageJ into the same directory as the Jupyter notebook [PUBLICATION_CHEMOTAXIS INDICES](PUBLICATION_CHEMOTAXIS_INDICES.ipynb) for processed sample datasets.
    - Note: sample data is provided 
 3. Follow the prompts in the notebook for further instructions to get the final indices.
    
