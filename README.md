@@ -1,5 +1,5 @@
 
-# Membrane-bound Guanylyl Cyclase COP5/HKR1 changes ciliary beat pattern and biases cell steering during chemotaxis in _Chlamydomonas reinhardtii_
+# COP5/HKR1 changes ciliary beat pattern and biases cell steering during chemotaxis in _Chlamydomonas reinhardtii_
 **Alexis Strain<sup>1</sup>, Nathan Kratzberg<sup>1</sup>, Dan Vu<sup>1</sup>, Emmaline Miller<sup>2</sup>, Ken-ichi Wakabayashi<sup>3</sup>, Adam Melvin<sup>4</sup>, Naohiro Kato<sup>1<sup>**\
 <sup>1</sup> Department of Biological Sciences, Louisiana State University, Baton Rouge, LA 70803, USA\
 <sup>2</sup> Cain Department of Chemical Engineering, Louisiana State University, Baton Rouge, LA, 70803, USA\
@@ -7,7 +7,7 @@
 <sup>4</sup> Department of Chemical and Biomolecular Engineering, Clemson University, Clemson, SC 29634, USA\
  
 
-[BioRxiv](https://www.biorxiv.org/content/10.1101/2024.10.14.618206v1.article-metrics), 2024
+[Scientific Reports](https://doi.org/10.1038/s41598-024-81455-2), Dec, 2024
 <br>
 ---
 ![angle speed and video](https://github.com/AlexisStrain/chlamy2024/blob/master/Figures/angle%20speed%20and%20video.gif)
@@ -40,7 +40,7 @@ Note: Each section is accompanied by sample datasets of a positive control (typi
 ## Citation
 if you use the code released here, please cite this paper: 
 ```
-Manuscript is not yet peer reviewed. Please cite bioRxiv in the interim
+Strain, A., Kratzberg, N., Vu, D. et al. COP5/HKR1 changes ciliary beat pattern and biases cell steering during chemotaxis in Chlamydomonas reinhardtii. Sci Rep 14, 30354 (2024). https://doi.org/10.1038/s41598-024-81455-2
 ```
 
 # Licence
